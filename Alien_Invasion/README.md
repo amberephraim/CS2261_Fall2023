@@ -3,6 +3,8 @@
 
 **Overview:** This is my take on space invaders.
 
+# Play it Yourself
+
 # Button Controls:
 
 A -> shoot lasers
