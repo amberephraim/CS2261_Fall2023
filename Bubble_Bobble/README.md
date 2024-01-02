@@ -1,6 +1,6 @@
 **Bubble Bobble**
 
-**Overview:** This is a remke of the arcade game Bubble Bobble
+**Overview:** This is a remake of the arcade game Bubble Bobble
 
 # Play it Yourself
 You can play the game in-browser at this website: https://amberephraim.github.io/Bubble_Bobble/
