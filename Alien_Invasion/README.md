@@ -1,22 +1,18 @@
 
 **ALIEN INVASION**
 
+**Overview:** This is my take on space invaders.
+
 # Button Controls:
 
-GBA Buttons -> Keyboard Equivalent
-START -> Spacebar
-A -> X
-UP -> Up arrow Key
-DOWN -> Down arrow Key
-LEFT -> Left arrow key
-RIGHT -> Right arrow Key
-*The controls support multiple key presses at once (that are not in opposite deirections) EX: UP, Right, and X*
+A -> shoot lasers
+D-Pad -> move
 
 # Navigate State Machine:
 
-On the START screen, press the spacebar to start the game
-During the game, press the spacebar to pause and unpause the game
-At the losing screen, press the spacebar to return to the START screen
+On the starting screen, press START to start the game
+During the game, press the START to pause and unpause the game
+At the losing screen, press START to return to the starting screen
 
 # How To Play:
 
