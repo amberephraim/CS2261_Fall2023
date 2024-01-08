@@ -2,7 +2,6 @@
 This is a collection of past projects/games from CS2261
 
 The games can be played online via:
-
 Cyber Citadel: https://amberephraim.github.io/Cyber_Citadel/ 
 
 Alien Invasion: https://amberephraim.github.io/Alien_Invasion/
